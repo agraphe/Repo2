@@ -1,0 +1,20 @@
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\bin\Debug\GeometricObjcets.exe.config
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\bin\Debug\GeometricObjcets.exe
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\bin\Debug\GeometricObjcets.pdb
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\obj\Debug\GeometricObjcets.exe
+D:\Visual C# 2012 Buch 1\Beispiele Visual Studio 2012\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\obj\Debug\GeometricObjcets.pdb
+D:\Visual C# 2012 Buch 1\Beispiele\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\bin\Debug\GeometricObjcets.exe.config
+D:\Visual C# 2012 Buch 1\Beispiele\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\obj\Debug\GeometricObjcets.exe
+D:\Visual C# 2012 Buch 1\Beispiele\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\obj\Debug\GeometricObjcets.pdb
+D:\Visual C# 2012 Buch 1\Beispiele\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\bin\Debug\GeometricObjcets.exe
+D:\Visual C# 2012 Buch 1\Beispiele\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\bin\Debug\GeometricObjcets.pdb
+D:\Visual C# 2012 Buch 1\Beispiele\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\obj\Debug\GeometricObjcets.csprojResolveAssemblyReference.cache
+D:\Bücher\Visual C# 2012 Buch 1\Beispiele\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\bin\Debug\GeometricObjcets.exe.config
+D:\Bücher\Visual C# 2012 Buch 1\Beispiele\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\obj\Debug\GeometricObjcets.exe
+D:\Bücher\Visual C# 2012 Buch 1\Beispiele\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\obj\Debug\GeometricObjcets.pdb
+G:\______Visual C# 2012_Kühnel__Galileo-Buch\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\bin\Debug\GeometricObjcets.exe.config
+G:\______Visual C# 2012_Kühnel__Galileo-Buch\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\obj\Debug\GeometricObjcets.exe
+G:\______Visual C# 2012_Kühnel__Galileo-Buch\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\obj\Debug\GeometricObjcets.pdb
+G:\______Visual C# 2012_Kühnel__Galileo-Buch\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\bin\Debug\GeometricObjcets.exe
+G:\______Visual C# 2012_Kühnel__Galileo-Buch\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\bin\Debug\GeometricObjcets.pdb
+G:\______Visual C# 2012_Kühnel__Galileo-Buch\Kapitel 3\GeometricObjcetsSolution_1\GeometricObjcets\obj\Debug\GeometricObjcets.csprojResolveAssemblyReference.cache
